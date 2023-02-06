@@ -1,0 +1,17 @@
+.Result {
+    position: relative;
+    background-color: #c1c1c1;
+}
+.low {
+    position: absolute;
+    bottom: 15px;
+}
+#result {
+    font-size: 60px;
+    font-weight: bold;
+}
+#out {
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: -30px;
+}
